@@ -19,7 +19,9 @@ Hello! I'm <b>Jose Luis Chong</b>, an aspiring software engineer currently in my
 
 I a have passion for learning new technologies. Particularly in <b>systems programming</b>, <b>game development</b>, and <b>cybersecurity</b>.
 
-At present, I'm diving into <b>web development</b> using <b>JavaScript</b> for the frontend and learning <b>Go</b> for the backend. For game development, I'm exploring <b>Zig</b>, <b>Odin</b>, and <b>Lua</b>.
+At present, I'm diving into <b>web development</b> using <b>JavaScript</b> for the frontend and learning <b>Go</b> for the backend.
+
+For game development, I'm exploring <b>Zig</b>, <b>Odin</b>, and <b>Lua</b>.
 
 Additionally, I'm participating in <b>Capture The Flag (CTF)</b> challenges on <b>TryHackMe</b> to build my foundational knowledge in cybersecurity.
 
