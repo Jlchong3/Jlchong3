@@ -12,7 +12,7 @@
   align="right"
   src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
   alt="codingGif"
-  width="340"
+  width="400"
 />
 
 Hello! I'm <b>Jose Luis Chong</b>, an aspiring software engineer currently in my fifth semester of college.
