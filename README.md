@@ -25,6 +25,8 @@ For game development, I'm exploring <b>Zig</b>, <b>Odin</b>, and <b>Lua</b>.
 
 Additionally, I'm participating in <b>Capture The Flag (CTF)</b> challenges on <b>TryHackMe</b> to build my foundational knowledge in cybersecurity.
 
+<br>
+
 ### 🔨 Tech Stack
 
 <h5 align='center'>
