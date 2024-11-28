@@ -42,24 +42,24 @@ Here are some of the projects I've worked on. Feel free to explore them!
 
 ---
 
-#### Project 2: **[Landing Page](https://github.com/Jlchong3/landing)**
+#### Project 2: **[Landing Page](https://jlchong3.github.io/landing/)**
 - **Description**: A simple landing page to showcase a startup product to promote tourism.
 - **Technologies**:
     - **HTML5:** For the general structure
     - **CSS:** For the styling of the page
     - **JavaScript:** For the handling of dynamic content
     - **Bootstrap:** To use predefined styles
-- **Repository**: [GitHub Repo](https://github.com/Jlchong3/todo-app)
+- **Repository**: [GitHub Repo](https://github.com/Jlchong3/landing)
 
 ---
 
-#### Project 3: **[Weather Dashboard](https://github.com/Jlchong3/dashboard)**
+#### Project 3: **[Weather Dashboard](https://jlchong3.github.io/dashboard/)**
 - **Description**: A dynamic dashboard created using the OpenWeatherMap API.
 - **Technologies**: TypeScript, React, Bootstrap
     - **TypeScript:** To use the React library and creation of different interfaces
     - **Vite:** As the build tool to setup the development environment
     - **React:** Library for using and writing reusable components for the web page
-- **Repository**: [GitHub Repo](https://jlchong3.github.io/dashboard/)
+- **Repository**: [GitHub Repo](https://github.com/Jlchong3/dashboard)
 
 ---
 
