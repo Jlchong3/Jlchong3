@@ -100,7 +100,7 @@ Feel free to explore the repositories, check out the code, and contribute or pro
 </h5>
 <h2 align='center'>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=transparent&username=Jlchong3&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?theme=transparent&username=Jlchong3&show_icons=true" alt="stats">
 
 </h2>
 
